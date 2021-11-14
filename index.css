@@ -16,6 +16,7 @@
     height: 100%;
     padding-top: 20px;
     margin-left: 70px;
+   
 }
 #tasks{
 font-weight: bold;
@@ -36,9 +37,8 @@ position: absolute;
 top: 0px;
 right: 0px;
 }
-/* #circle{
-
-} */
+ /* #circle{
+}  */
 .card-container{
     margin-top: 20px;
     display: flex;
